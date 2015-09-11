@@ -4,21 +4,6 @@ body {
      font-size: 12px;
 }
 
-#main {
-     background: none repeat scroll 0% 0% #808080;
-     border-radius: 12px 12px 12px 12px;
-     box-shadow: 0px 3px 6px #CCCCCC;
-     clear: both;
-     color: #DBDBDB;
-     font-family: Helvetica,Verdana,Arial,sans-serif;
-     font-size: 12px;
-     height: 390px;
-     margin-top: 10px;
-     overflow: hidden;
-     padding: 5px 20px 40px;
-     width: 760px;
-}
-
 
 img {
      border: 0px none;
@@ -84,9 +69,7 @@ h2 {
      width: 80%;
 }
 #img {
-     box-shadow: 0px 4px 10px 0px rgba(119, 119, 119, 0.5);
-     -moz-box-shadow: 0px 4px 10px 0px rgba(119, 119, 119, 0.5);
-     -webkit-box-shadow: 0px 4px 10px 0px rgba(119, 119, 119, 0.5); 
+	box-shadow: 0px 3px 6px #CCCCCC;
 }
 
 
