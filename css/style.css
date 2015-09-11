@@ -1,7 +1,7 @@
 body {
      color: black;
      font-family: Verdana,Arial,sans-serif;
-     font-size: 10px;
+     font-size: 12px;
 }
 
 #main {
@@ -63,8 +63,6 @@ a.tagactive:hover {
 }
 
 h1 {
-     border-bottom: 2px dotted #777777;
-     border-top: 2px dotted #777777;
      font-family: Helvetica,Arial,sans-serif;
      font-size: 18px;
      padding-bottom: 6px;
@@ -74,9 +72,8 @@ h1 {
 
 h2 {
      font-family: Verdana,Arial,sans-serif;
-     font-size: 12px;
+     font-size: 14px;
      font-weight: bold;
      padding-top: 0px;
 }
-
 
