@@ -63,8 +63,10 @@ a.tagactive:hover {
 }
 
 h1 {
+     border-bottom: 2px dotted #777777;
+     border-top: 2px dotted #777777;
      font-family: Helvetica,Arial,sans-serif;
-     font-size: 18px;
+     font-size: 16px;
      padding-bottom: 6px;
      padding-left: 5px;
      padding-top: 25px;
@@ -76,4 +78,12 @@ h2 {
      font-weight: bold;
      padding-top: 0px;
 }
+
+#outer {
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 0px;
+     width: 800px;
+}
+
 
