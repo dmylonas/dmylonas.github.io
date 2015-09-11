@@ -16,7 +16,7 @@ body {
      margin-top: 10px;
      overflow: hidden;
      padding: 5px 20px 40px;
-     width: 760px;
+     width: 1000px;
 }
 
 
@@ -63,10 +63,8 @@ a.tagactive:hover {
 }
 
 h1 {
-     border-bottom: 2px dotted #777777;
-     border-top: 2px dotted #777777;
      font-family: Helvetica,Arial,sans-serif;
-     font-size: 16px;
+     font-size: 21px;
      padding-bottom: 6px;
      padding-left: 5px;
      padding-top: 25px;
@@ -74,15 +72,15 @@ h1 {
 
 h2 {
      font-family: Verdana,Arial,sans-serif;
-     font-size: 14px;
+     font-size: 16px;
      font-weight: bold;
      padding-top: 0px;
 }
 
 #outer {
-     margin-left: auto;
-     margin-right: auto;
-     margin-top: 50px;
+     margin-left: 10%;
+     margin-right: 10%;
+     margin-top: 0px;
      width: 1024px;
 }
 
