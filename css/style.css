@@ -63,13 +63,15 @@ h2 {
 }
 
 #outer {
-     margin-left: 10%;
-     margin-right: 10%;
+	 margin: 0 auto;
+     text-align: left;
+     width: 800px;
      margin-top: 10px;
-     width: 860px;
 }
 #img {
-	box-shadow: 0px 3px 6px #CCCCCC;
+	width: 800px;
+	height: 408px;
+	box-shadow: 0px 4px 7px #CCCCCC;
 }
 
 
