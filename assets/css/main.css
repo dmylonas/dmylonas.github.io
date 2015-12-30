@@ -255,7 +255,7 @@ ul li {
  */
 .navbar-custom {
   border: 0;
-  margin: 0 auto;
+  margin: 0 ;
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: #000;
@@ -263,7 +263,7 @@ ul li {
           transition: all 0.2s linear 0s;
 }
 .navbar-custom .navbar-nav li {
-  margin: 0 auto;
+  margin: 0;
 }
 .navbar-custom .navbar-nav > li > a {
   color: #fff;
@@ -361,6 +361,9 @@ ul li {
   .navbar-custom {
     background-color: transparent;
     padding-top: 30px;
+    .nav.navbar-nav.pull-right {
+   float: left !important;
+ }
   }
 
   .site-branding {
