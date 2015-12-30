@@ -448,9 +448,9 @@ ul li {
 }
 
 /*
- * 6.6 Section: Schedule
+ * 6.6 Section: dates
  */
-.schedule-box {
+.dates-box {
   position: relative;
   background-color: #000;
   color: #fff;
@@ -458,7 +458,7 @@ ul li {
   padding: 50px 0;
   margin: 25px 0 0;
 }
-.schedule-box::before {
+.dates-box::before {
   content: '';
   position: absolute;
   top: 5px;
@@ -469,7 +469,7 @@ ul li {
 }
 
 /*
- * 6.7 Section: Schedule
+ * 6.7 Section: dates
  */
 .partner {
   background-color: #f8f8f8;
@@ -588,7 +588,7 @@ ul li {
   }
 }
 @media (min-width: 992px) {
-  .schedule-box {
+  .dates-box {
     margin: 0;
   }
 
