@@ -296,6 +296,17 @@ ul li {
           transition: all 0.2s linear 0s;
 }
 
+.navbar {
+    position: relative;
+    min-height: 50px;
+    border: 1px solid transparent;
+    margin-bottom: 0px;
+}
+
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+
 .site-branding {
   float: left;
   margin-top: 0;
